@@ -1,8 +1,9 @@
 body {
-    margin: 32;
+    margin: 32px;
 }
 
 h1 {
-    font-size: 3em;
     font-family: 'Montserrat', sans-serif;
+	font-weight: 400;
+    font-size: 81px;
 }
