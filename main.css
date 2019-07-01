@@ -4,20 +4,20 @@ body {
 h1 {
 	font-family: 'Montserrat', sans-serif;
 	font-weight: 400;
-	font-size: 2em;
+	font-size: 4em; 	/*( 4 * 16 = 64px )*/
 }
 h2 {
 	font-family: 'Montserrat', sans-serif;
 	font-weight: 400;
-	font-size: 1.5em;
+	font-size: 2.5em; 	/*( 2.5 * 16 = 40px )*/
 }
 h3 {
 	font-family: 'Montserrat', sans-serif;
 	font-weight: 400;
-	font-size: 1.17em;
+	font-size: 1.5em; 	/*( 1.5 * 16 = 24px )*/
 }
-h4 {
+p {
 	font-family: 'Montserrat', sans-serif;
 	font-weight: 400;
-	font-size: 1em;
+	font-size: 1em; 	/*( 1 * 16 = 16px )*/
 }
