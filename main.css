@@ -1,7 +1,7 @@
 body {
 	margin: 32px;
+	display: grid;
 }
-display: grid
 h1 {
 	font-family: 'Montserrat', sans-serif;
 	font-weight: 400;
