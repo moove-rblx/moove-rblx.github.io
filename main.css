@@ -6,7 +6,7 @@ body {
 .header {
 	width: 100%;
 	position: fixed;
-	padding: 8px;
+	padding: 8px 0;
 	color: #3F3F3F;
 	top: 0;
 }
