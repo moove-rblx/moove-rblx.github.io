@@ -1,6 +1,13 @@
 body {
 	margin: 32px;
+	padding-top: 32px;
 	display: grid;
+}
+.header {
+	width: 100%;
+	position: fixed;
+	padding: 8px;
+	color: #3F3F3F
 }
 h1 {
 	font-family: 'Montserrat', sans-serif;
