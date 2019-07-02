@@ -6,7 +6,8 @@ body {
 	width: 100%;
 	position: fixed;
 	padding: 8px 0;
-	color: #3F3F3F;
+	background: #3F3F3F
+	color: #FFFFFF;
 	top: 0;
 }
 h1 {
